@@ -1,1 +1,1 @@
-![Aperçu de l'application (https://github.com/LAHROURI/DemandeDAbonnement/blob/main/image.png?raw=true)
+<img width="401" height="327" alt="image" src="https://github.com/user-attachments/assets/1a17895f-641c-4b1a-8549-63d8c6d5ac7c" />
